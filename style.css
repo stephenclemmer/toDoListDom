@@ -78,3 +78,7 @@ button:hover {
 .editForm button {
   margin-top: 5px;
 }
+
+.login {
+  float: right;
+}
